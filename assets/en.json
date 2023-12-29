@@ -1,0 +1,42 @@
+{
+  "aside": {
+    "home": "About Me",
+    "model": "3D Modeling",
+    "gd": "Graphic Design",
+    "web": "Front-End Web Design",
+    "photo": "Photography & Video"
+  },
+  "main": {
+    "hero": "I'm",
+    "pedro": "Pedro Lodi",
+    "dot": ".",
+    "subhero1": "I have a degree in ",
+    "design": "Graphic Design",
+    "subhero2": " from UTFPR, Brazil, and I'm specializing in ",
+    "model": "3D modeling",
+    "subhero3": " and ",
+    "web": "front-end web design",
+    "scroll": "scroll down",
+    "footer": "This website was built on "
+  },
+  "web": {
+    "title": "Web Design & Front-End Development",
+    "description-main": "This website was built with Nuxt, using the shadcn/ui library, Tailwind CSS and the i18n and Color Mode Nuxt Modules.",
+    "description-second": "Auxiliary tools for web apps development: Figma, Photoshop, Illustrator."
+  },
+  "model": {
+    "title": "3D Modeling & Animation",
+    "description-main": "placeholder",
+    "description-second": "Blender, Photoshop, DaVinci Resolve, Three.js."
+  },
+  "design": {
+    "title": "Graphic Design",
+    "description-main": "placeholder",
+    "description-second": "Photoshop, Illustrator, InDesign, InkScape, Figma."
+  },
+  "photography": {
+    "title": "Photography & Video",
+    "description-main": "I do some photography in my free time, as well as video editing. I've participated in photography study groups in university and have done freelance photoshoots as well.",
+    "description-second": "Photoshop, Lightroom, DaVinci Resolve."
+  }
+}

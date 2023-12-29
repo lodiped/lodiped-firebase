@@ -1,0 +1,42 @@
+{
+  "aside": {
+    "home": "Sobre Mim",
+    "model": "Modelagem 3D",
+    "gd": "Design Gráfico",
+    "web": "Web Design Front-End",
+    "photo": "Fotografia & Vídeo"
+  },
+  "main": {
+    "hero": "sou",
+    "pedro": "Pedro Lodi",
+    "dot": ".",
+    "subhero1": "Sou formado em ",
+    "design": "Design Gráfico",
+    "subhero2": " pela UTFPR e estou me especializando em ",
+    "model": "modelagem 3D",
+    "subhero3": " e ",
+    "web": "web design front-end",
+    "scroll": "veja mais",
+    "footer": "Este website foi programado em "
+  },
+  "web": {
+    "title": "Web Design & Desenvolvimento Front-End",
+    "description-main": "Este site foi programado com Nuxt, utilizando shadcn/ui library com Tailwind CSS e os Nuxt Modules i18n e Color Mode.",
+    "description-second": "Ferramentas auxiliares para construção de web apps: Figma, Photoshop, Illustrator."
+  },
+  "model": {
+    "title": "Modelagem 3D & Animação",
+    "description-main": "placeholder",
+    "description-second": "Blender, Photoshop, DaVinci Resolve, Three.js."
+  },
+  "design": {
+    "title": "Design Gráfico",
+    "description-main": "placeholder",
+    "description-second": "Photoshop, Illustrator, InDesign, InkScape, Figma."
+  },
+  "photography": {
+    "title": "Fotografia & Vídeo",
+    "description-main": "Eu sou fotógrafo amador no tempo livre. Tenho experiência com fotografia analógica e fiz parte de um grupo de estudos na universidade.",
+    "description-second": "Photoshop, Lightroom, DaVinci Resolve."
+  }
+}
